@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnStartP2P"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StartP2P" />
+    <Button
+        android:id="@+id/btnStopP2P"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StopP2P" />
+    <Button
+        android:id="@+id/btnStartVideo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StartVideo" />
+    <Button
+        android:id="@+id/btnStopVideo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StopVideo" />
+    <Button
+        android:id="@+id/btnStartAudio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StartAudio" />
+    <Button
+        android:id="@+id/btnStopAudio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StopAudio" />
+
+</LinearLayout>
