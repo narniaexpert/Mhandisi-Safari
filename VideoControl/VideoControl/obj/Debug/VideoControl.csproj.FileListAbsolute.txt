@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.exe
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.pdb
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\bin\Debug\VideoControl.exe
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\bin\Debug\VideoControl.pdb
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.Properties.Resources.resources
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.Settings.resources
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.MainWindow.resources
+C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.csprojResolveAssemblyReference.cache

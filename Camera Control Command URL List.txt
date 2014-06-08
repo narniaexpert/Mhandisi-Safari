@@ -1,0 +1,43 @@
+
+Turn LED On
+http://192.168.1.125:81/set_misc.cgi?next_url=ptz.htm&loginuse=admin&loginpas=&ptz_patrol_rate=10&ptz_patrol_up_rate=10&ptz_patrol_down_rate=10&ptz_patrol_left_rate=10&ptz_patrol_right_rate=10&ptz_dispreset=1&ptz_preset=3&led_mode=1&ptz_run_times=2
+
+Turn LED Off
+http://192.168.1.125:81/set_misc.cgi?next_url=ptz.htm&loginuse=admin&loginpas=&ptz_patrol_rate=10&ptz_patrol_up_rate=10&ptz_patrol_down_rate=10&ptz_patrol_left_rate=10&ptz_patrol_right_rate=10&ptz_dispreset=1&ptz_preset=3&led_mode=0&ptz_run_times=2
+
+Movement Command ID
+#define CMD_PTZ_UP 0
+#define CMD_PTZ_UP_STOP 1
+#define CMD_PTZ_DOWN 2
+#define CMD_PTZ_DOWN_STOP 3
+#define CMD_PTZ_LEFT 4
+#define CMD_PTZ_LEFT_STOP 5
+#define CMD_PTZ_RIGHT 6
+#define CMD_PTZ_RIGHT_STOP 7
+
+The camera can only move in one direction at a time. The following raw movement commands will continue until they hit the servo's hard stop.
+When the max position is reached, they will continue to run into the servo edge and the front LED will flash rapidly as the motor rams against the edge.
+
+Move Up
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=0&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Stop Up Movement
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=1&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Move Down
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=2&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Stop Down Movement
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=3&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Move Left
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=4&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Stop Left Movement
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=5&onestep=0&14021817956990.7098098742522676&_=1402181795700
+
+Move Right
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=6&onestep=0&14021817903240.3322663000576133&_=1402181790325
+
+Stop RightMovement
+http://192.168.1.125:81/decoder_control.cgi?loginuse=admin&loginpas=&command=7&onestep=0&14021817956990.7098098742522676&_=1402181795700
