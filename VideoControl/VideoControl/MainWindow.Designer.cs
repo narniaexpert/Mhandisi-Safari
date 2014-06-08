@@ -118,72 +118,72 @@
             // 
             // fileToolStripMenuItem
             // 
-            resources.ApplyResources(this.fileToolStripMenuItem, "fileToolStripMenuItem");
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.aboutToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            resources.ApplyResources(this.fileToolStripMenuItem, "fileToolStripMenuItem");
             // 
             // aboutToolStripMenuItem
             // 
-            resources.ApplyResources(this.aboutToolStripMenuItem, "aboutToolStripMenuItem");
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
+            resources.ApplyResources(this.aboutToolStripMenuItem, "aboutToolStripMenuItem");
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // languagesToolStripMenuItem
             // 
-            resources.ApplyResources(this.languagesToolStripMenuItem, "languagesToolStripMenuItem");
             this.languagesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.englishToolStripMenuItem,
             this.中文ToolStripMenuItem,
             this.españolToolStripMenuItem});
             this.languagesToolStripMenuItem.Name = "languagesToolStripMenuItem";
+            resources.ApplyResources(this.languagesToolStripMenuItem, "languagesToolStripMenuItem");
             // 
             // englishToolStripMenuItem
             // 
-            resources.ApplyResources(this.englishToolStripMenuItem, "englishToolStripMenuItem");
             this.englishToolStripMenuItem.Name = "englishToolStripMenuItem";
+            resources.ApplyResources(this.englishToolStripMenuItem, "englishToolStripMenuItem");
             this.englishToolStripMenuItem.Click += new System.EventHandler(this.englishToolStripMenuItem_Click);
             // 
             // 中文ToolStripMenuItem
             // 
-            resources.ApplyResources(this.中文ToolStripMenuItem, "中文ToolStripMenuItem");
             this.中文ToolStripMenuItem.Name = "中文ToolStripMenuItem";
+            resources.ApplyResources(this.中文ToolStripMenuItem, "中文ToolStripMenuItem");
             this.中文ToolStripMenuItem.Click += new System.EventHandler(this.中文ToolStripMenuItem_Click);
             // 
             // españolToolStripMenuItem
             // 
-            resources.ApplyResources(this.españolToolStripMenuItem, "españolToolStripMenuItem");
             this.españolToolStripMenuItem.Name = "españolToolStripMenuItem";
+            resources.ApplyResources(this.españolToolStripMenuItem, "españolToolStripMenuItem");
             this.españolToolStripMenuItem.Click += new System.EventHandler(this.españolToolStripMenuItem_Click);
             // 
             // settingsToolStripMenuItem
             // 
-            resources.ApplyResources(this.settingsToolStripMenuItem, "settingsToolStripMenuItem");
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
+            resources.ApplyResources(this.settingsToolStripMenuItem, "settingsToolStripMenuItem");
             this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 
-            resources.ApplyResources(this.helpToolStripMenuItem, "helpToolStripMenuItem");
             this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.viewHelpFileToolStripMenuItem,
             this.viewHelpWebsiteToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            resources.ApplyResources(this.helpToolStripMenuItem, "helpToolStripMenuItem");
             // 
             // viewHelpFileToolStripMenuItem
             // 
-            resources.ApplyResources(this.viewHelpFileToolStripMenuItem, "viewHelpFileToolStripMenuItem");
             this.viewHelpFileToolStripMenuItem.Name = "viewHelpFileToolStripMenuItem";
+            resources.ApplyResources(this.viewHelpFileToolStripMenuItem, "viewHelpFileToolStripMenuItem");
             // 
             // viewHelpWebsiteToolStripMenuItem
             // 
-            resources.ApplyResources(this.viewHelpWebsiteToolStripMenuItem, "viewHelpWebsiteToolStripMenuItem");
             this.viewHelpWebsiteToolStripMenuItem.Name = "viewHelpWebsiteToolStripMenuItem";
+            resources.ApplyResources(this.viewHelpWebsiteToolStripMenuItem, "viewHelpWebsiteToolStripMenuItem");
             // 
             // pictureBox1
             // 
-            resources.ApplyResources(this.pictureBox1, "pictureBox1");
             this.pictureBox1.Image = global::VideoControl.Properties.Resources.InterfaceBackground;
+            resources.ApplyResources(this.pictureBox1, "pictureBox1");
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.TabStop = false;
             // 
@@ -201,7 +201,6 @@
             this.Controls.Add(this.VideoStream);
             this.Controls.Add(this.pictureBox1);
             this.MainMenuStrip = this.menuStrip1;
-            this.MinimizeBox = false;
             this.Name = "MainWindow";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

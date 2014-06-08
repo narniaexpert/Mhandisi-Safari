@@ -63,6 +63,26 @@ namespace VideoControl.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BackgroundMap {
+            get {
+                object obj = ResourceManager.GetObject("BackgroundMap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Compass_Rose {
+            get {
+                object obj = ResourceManager.GetObject("Compass Rose", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap InterfaceBackground {
             get {
                 object obj = ResourceManager.GetObject("InterfaceBackground", resourceCulture);

@@ -118,130 +118,328 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="UpButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tribeca, 9.749999pt</value>
+  <data name="VideoStream.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-10, 9</value>
+  </data>
+  <data name="VideoStream.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>20, 20</value>
   </data>
   <data name="VideoStream.Size" type="System.Drawing.Size, System.Drawing">
     <value>650, 495</value>
   </data>
-  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
-    <value>About</value>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="VideoStream.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;LeftButton.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;englishToolStripMenuItem.Name" xml:space="preserve">
-    <value>englishToolStripMenuItem</value>
-  </data>
-  <data name="DownButton.Text" xml:space="preserve">
-    <value>Down</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>950, 542</value>
+  <data name="&gt;&gt;VideoStream.Name" xml:space="preserve">
+    <value>VideoStream</value>
   </data>
   <data name="&gt;&gt;VideoStream.Type" xml:space="preserve">
     <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="LeftButton.Text" xml:space="preserve">
-    <value>Left</value>
+  <data name="&gt;&gt;VideoStream.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="englishToolStripMenuItem.Text" xml:space="preserve">
-    <value>English</value>
-  </data>
-  <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
-    <value>fileToolStripMenuItem</value>
+  <data name="&gt;&gt;VideoStream.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="UpButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>934, 504</value>
-  </data>
-  <data name="&gt;&gt;中文ToolStripMenuItem.Name" xml:space="preserve">
-    <value>中文ToolStripMenuItem</value>
-  </data>
-  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
-    <value>File</value>
-  </data>
-  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 20</value>
-  </data>
-  <data name="FireButton.Text" xml:space="preserve">
-    <value>Fire</value>
-  </data>
-  <data name="FireButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>688, 288</value>
-  </data>
-  <data name="BackgroundURLBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 64</value>
-  </data>
-  <data name="LeftButton.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="UpButton.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tribeca, 9.749999pt</value>
-  </data>
-  <data name="&gt;&gt;UpButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;RightButton.Name" xml:space="preserve">
-    <value>RightButton</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="RightButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>827, 123</value>
-  </data>
-  <data name="&gt;&gt;DownButton.Name" xml:space="preserve">
-    <value>DownButton</value>
-  </data>
-  <data name="&gt;&gt;BackgroundURLBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;DownButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DownButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 64</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="englishToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 22</value>
   </data>
   <data name="UpButton.Location" type="System.Drawing.Point, System.Drawing">
     <value>759, 53</value>
   </data>
-  <data name="españolToolStripMenuItem.Text" xml:space="preserve">
-    <value>Español</value>
+  <data name="UpButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 64</value>
+  </data>
+  <data name="UpButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="UpButton.Text" xml:space="preserve">
+    <value>Up</value>
+  </data>
+  <data name="&gt;&gt;UpButton.Name" xml:space="preserve">
+    <value>UpButton</value>
+  </data>
+  <data name="&gt;&gt;UpButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;UpButton.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="DownButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="languagesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 20</value>
-  </data>
-  <data name="&gt;&gt;BackgroundURLBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="RightButton.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="DownButton.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tribeca, 9.749999pt</value>
+  </data>
+  <data name="DownButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>759, 193</value>
+  </data>
+  <data name="DownButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 64</value>
+  </data>
+  <data name="DownButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="DownButton.Text" xml:space="preserve">
+    <value>Down</value>
+  </data>
+  <data name="&gt;&gt;DownButton.Name" xml:space="preserve">
+    <value>DownButton</value>
+  </data>
+  <data name="&gt;&gt;DownButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DownButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;DownButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LeftButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="LeftButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tribeca, 9.749999pt</value>
+  </data>
+  <data name="LeftButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 123</value>
+  </data>
+  <data name="LeftButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 64</value>
+  </data>
+  <data name="LeftButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="LeftButton.Text" xml:space="preserve">
+    <value>Left</value>
   </data>
   <data name="&gt;&gt;LeftButton.Name" xml:space="preserve">
     <value>LeftButton</value>
   </data>
+  <data name="&gt;&gt;LeftButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LeftButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;LeftButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="RightButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="RightButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tribeca, 9.749999pt</value>
+  </data>
+  <data name="RightButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>827, 123</value>
+  </data>
+  <data name="RightButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 64</value>
+  </data>
+  <data name="RightButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="RightButton.Text" xml:space="preserve">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;RightButton.Name" xml:space="preserve">
+    <value>RightButton</value>
+  </data>
+  <data name="&gt;&gt;RightButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RightButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;RightButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="FireButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="FireButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tribeca, 36pt</value>
+  </data>
+  <data name="FireButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>688, 288</value>
+  </data>
+  <data name="FireButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 204</value>
+  </data>
+  <data name="FireButton.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="FireButton.Text" xml:space="preserve">
+    <value>Fire</value>
+  </data>
+  <data name="&gt;&gt;FireButton.Name" xml:space="preserve">
+    <value>FireButton</value>
+  </data>
+  <data name="&gt;&gt;FireButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FireButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;FireButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BackgroundURLBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>757, 123</value>
+  </data>
+  <data name="BackgroundURLBox.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>20, 20</value>
+  </data>
+  <data name="BackgroundURLBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 64</value>
+  </data>
+  <data name="BackgroundURLBox.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;BackgroundURLBox.Name" xml:space="preserve">
+    <value>BackgroundURLBox</value>
+  </data>
+  <data name="&gt;&gt;BackgroundURLBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BackgroundURLBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BackgroundURLBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="menuStrip1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tribeca, 9pt</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 22</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 20</value>
+  </data>
+  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="englishToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="englishToolStripMenuItem.Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="中文ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="中文ToolStripMenuItem.Text" xml:space="preserve">
+    <value>中文</value>
+  </data>
+  <data name="españolToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="españolToolStripMenuItem.Text" xml:space="preserve">
+    <value>Español</value>
+  </data>
+  <data name="languagesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 20</value>
+  </data>
+  <data name="languagesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="settingsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 20</value>
+  </data>
+  <data name="settingsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="viewHelpFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 22</value>
+  </data>
+  <data name="viewHelpFileToolStripMenuItem.Text" xml:space="preserve">
+    <value>Open Help File</value>
+  </data>
+  <data name="viewHelpWebsiteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 22</value>
+  </data>
+  <data name="viewHelpWebsiteToolStripMenuItem.Text" xml:space="preserve">
+    <value>View Help Website</value>
+  </data>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>934, 24</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>640, 23</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>302, 491</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>934, 504</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -29454,274 +29652,79 @@
         ////////////////////////////////////////
 </value>
   </data>
-  <data name="&gt;&gt;DownButton.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="viewHelpFileToolStripMenuItem.Text" xml:space="preserve">
-    <value>Open Help File</value>
-  </data>
-  <data name="&gt;&gt;VideoStream.Name" xml:space="preserve">
-    <value>VideoStream</value>
-  </data>
-  <data name="&gt;&gt;viewHelpFileToolStripMenuItem.Name" xml:space="preserve">
-    <value>viewHelpFileToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;RightButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;UpButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;中文ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="UpButton.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="LeftButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 64</value>
-  </data>
-  <data name="FireButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>203, 204</value>
-  </data>
-  <data name="FireButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;VideoStream.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;DownButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;BackgroundURLBox.Name" xml:space="preserve">
-    <value>BackgroundURLBox</value>
-  </data>
-  <data name="BackgroundURLBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>757, 123</value>
-  </data>
-  <data name="LeftButton.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;settingsToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;RightButton.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="DownButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>759, 193</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="BackgroundURLBox.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>20, 20</value>
-  </data>
-  <data name="&gt;&gt;FireButton.Name" xml:space="preserve">
-    <value>FireButton</value>
-  </data>
-  <data name="&gt;&gt;settingsToolStripMenuItem.Name" xml:space="preserve">
-    <value>settingsToolStripMenuItem</value>
-  </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
     <value>950, 542</value>
   </data>
-  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
-    <value>Help</value>
-  </data>
-  <data name="RightButton.Text" xml:space="preserve">
-    <value>Right</value>
-  </data>
-  <data name="VideoStream.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>20, 20</value>
-  </data>
-  <data name="&gt;&gt;languagesToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DownButton.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="viewHelpFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 22</value>
-  </data>
-  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
-    <value>helpToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>MainWindow</value>
-  </data>
-  <data name="españolToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 22</value>
-  </data>
-  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 491</value>
-  </data>
-  <data name="DownButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tribeca, 9.749999pt</value>
-  </data>
-  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 20</value>
-  </data>
-  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>640, 23</value>
-  </data>
-  <data name="中文ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 22</value>
-  </data>
-  <data name="中文ToolStripMenuItem.Text" xml:space="preserve">
-    <value>中文</value>
-  </data>
-  <data name="&gt;&gt;BackgroundURLBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="settingsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>79, 20</value>
-  </data>
-  <data name="languagesToolStripMenuItem.Text" xml:space="preserve">
-    <value>Languages</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="LeftButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>688, 123</value>
-  </data>
-  <data name="viewHelpWebsiteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 22</value>
-  </data>
-  <data name="&gt;&gt;viewHelpWebsiteToolStripMenuItem.Name" xml:space="preserve">
-    <value>viewHelpWebsiteToolStripMenuItem</value>
-  </data>
-  <data name="viewHelpWebsiteToolStripMenuItem.Text" xml:space="preserve">
-    <value>View Help Website</value>
-  </data>
-  <data name="settingsToolStripMenuItem.Text" xml:space="preserve">
-    <value>Settings</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="VideoStream.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="LeftButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="VideoStream.Location" type="System.Drawing.Point, System.Drawing">
-    <value>-10, 9</value>
-  </data>
-  <data name="RightButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 64</value>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>950, 542</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Mhandisi Safari</value>
   </data>
-  <data name="&gt;&gt;LeftButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;viewHelpFileToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
+    <value>fileToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;fileToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;LeftButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="menuStrip1.Text" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="&gt;&gt;VideoStream.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>934, 24</value>
-  </data>
-  <data name="&gt;&gt;FireButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;UpButton.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="UpButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 64</value>
-  </data>
-  <data name="FireButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tribeca, 36pt</value>
-  </data>
-  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="RightButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;englishToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="RightButton.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;FireButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;españolToolStripMenuItem.Name" xml:space="preserve">
-    <value>españolToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;RightButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="UpButton.Text" xml:space="preserve">
-    <value>Up</value>
-  </data>
   <data name="&gt;&gt;aboutToolStripMenuItem.Name" xml:space="preserve">
     <value>aboutToolStripMenuItem</value>
-  </data>
-  <data name="FireButton.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;UpButton.Name" xml:space="preserve">
-    <value>UpButton</value>
-  </data>
-  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 22</value>
-  </data>
-  <data name="&gt;&gt;languagesToolStripMenuItem.Name" xml:space="preserve">
-    <value>languagesToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;FireButton.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;españolToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="BackgroundURLBox.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
   </data>
   <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;languagesToolStripMenuItem.Name" xml:space="preserve">
+    <value>languagesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;languagesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;englishToolStripMenuItem.Name" xml:space="preserve">
+    <value>englishToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;englishToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;中文ToolStripMenuItem.Name" xml:space="preserve">
+    <value>中文ToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;中文ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;españolToolStripMenuItem.Name" xml:space="preserve">
+    <value>españolToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;españolToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;settingsToolStripMenuItem.Name" xml:space="preserve">
+    <value>settingsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;settingsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
+    <value>helpToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;viewHelpFileToolStripMenuItem.Name" xml:space="preserve">
+    <value>viewHelpFileToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;viewHelpFileToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;viewHelpWebsiteToolStripMenuItem.Name" xml:space="preserve">
+    <value>viewHelpWebsiteToolStripMenuItem</value>
+  </data>
   <data name="&gt;&gt;viewHelpWebsiteToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainWindow</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

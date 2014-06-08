@@ -10,7 +10,7 @@ namespace VideoControl
     {
         English = 0,
         Chinese = 1, //Translated from English to Chinese by David Sutton.
-        Spanish = 2  //Translated by Raul Cabrera
+        Spanish = 2  //Translated by Joe Dattillo
         //If additional lanugages are added the NUMBEROFLANGUAGES constant should be changed and the dictonary should be updated
         //When adding new languages check for substrings that could cause errors when replacing values in the file in the ScoreControl.UpdateLanguage() function
     };
@@ -60,28 +60,28 @@ namespace VideoControl
             {"English","English", "English"},//English=3, for (Languages/English) kept as English in all languages to make it easier for natives to identify
             {"中文","中文", "中文"},//Chinese=4, for (Languages/中文) kept as 中文 in all languages to make it easier for natives to identify
             {"Help", "帮助", "Ayuda"},//Help=5, for the Help menu
-            {"Open Help File", "开始帮助文件", "Abrir el Archivo de Ayuda"},//OpenHelpFile=6, for (Help/OpenHelpFile)
-            {"View Help Website", "开始帮助网址","Ver Ayuda del sitio de Web"},//ViewHelpWebsite=7, for (Help/ViewHelpFile)
-            {"Settings","选项",""},//Settings =8, for the main menu bar
+            {"Open Help File", "开始帮助文件", "Ayuda File"},//OpenHelpFile=6, for (Help/OpenHelpFile)
+            {"View Help Website", "开始帮助网址","Ver Ayuda External"},//ViewHelpWebsite=7, for (Help/ViewHelpFile)
+            {"Settings","选项","Configuration"},//Settings =8, for the main menu bar
             {"Español","Español","Español"},//Spanish = 9, for (Languages/Espanol) kept as Español in all languages for easy identification
-            {"Up","上向",""},//Up = 10, for the control button
-            {"Down","下向",""},//Down = 11, for the control button
-            {"Left","左向",""},//Left = 12, for the control button
-            {"Right","右向",""},//Right = 13, for the control button
-            {"Fire","打枪",""},//Fire = 14, for the control button
-            {"IP Address:", "互联网地址：",""},//IPAddress = 15,  for the settings window
-            {"Player Type:","玩家类型：",""},//PlayerType = 16, for the settings window
-            {"Gunner","枪家类",""}, //Gunner = 17, for the player type combo box in the settings window
-            {"Driver","开车家类",""},//Driver = 18, for the player type combo box in the settings window
-            {"Error","错误",""},//Error = 19, for the error pop up boxes
-            {"This address does not have four groups of numbers in the form of http://192.168.1.125:81","这个互联网地址不合适。没有四个号集体。试一试这样的: http://192.168.1.125:81",""},//AddressDoesNotHaveFourNumberGroups = 20, a specific IPAddress error message
-            {"This address does not include a port number.","这个互联网地址没有 port number。",""},//AddressDoesNotHaveAPortNumber = 21, a specific IPAddress error message
-            {"This address does not start with http://","这个互联网地址头上没有“http://”",""},//AddressDoesNotStartWithHTTP = 22, a specific IPAddress error message
+            {"Up","上向","Ariba"},//Up = 10, for the control button
+            {"Down","下向","Derecha"},//Down = 11, for the control button
+            {"Left","左向","Izquerda"},//Left = 12, for the control button
+            {"Right","右向","Bajo"},//Right = 13, for the control button
+            {"Fire","打枪","Fuego"},//Fire = 14, for the control button
+            {"IP Address:", "互联网地址：","IP:"},//IPAddress = 15,  for the settings window
+            {"Player Type:","玩家类型：","Typo de control:"},//PlayerType = 16, for the settings window
+            {"Gunner","枪家类","Matador"}, //Gunner = 17, for the player type combo box in the settings window
+            {"Driver","开车家类","Enviajo"},//Driver = 18, for the player type combo box in the settings window
+            {"Error","错误","Error"},//Error = 19, for the error pop up boxes
+            {"This address does not have four groups of numbers in the form of http://192.168.1.xxx:81","这个互联网地址不合适。没有四个号集体。试一试这样的: http://192.168.1.xxx:81","Malo Malo! Tenes que usar la forma http://192.168.1.xxx:81"},//AddressDoesNotHaveFourNumberGroups = 20, a specific IPAddress error message
+            {"This address does not include a port number.","这个互联网地址没有 port number。","Malo Malo! Tenes que usar una numero de puerte."},//AddressDoesNotHaveAPortNumber = 21, a specific IPAddress error message
+            {"This address does not start with http://","这个互联网地址头上没有“http://”","Malo Malo! Tenes que usar http://"},//AddressDoesNotStartWithHTTP = 22, a specific IPAddress error message
             {"Mhandisi Safari", "Mhandisi Safari", "Mhandisi Safari"},//MhandisiSafari = 23 for the app title. This is a Swahili word and was intentionally not translated
             {"©2014 Colorado Technical University","©2014 Colorado Technical University","©2014 Colorado Technical University"},//CopyrightInfo = 24 for the About info box. This was not translated because the copyright symbol and school name should be universal
-            {"Mhandis Safari Video Control Panel", "Mhandisi Safari 摄像机控制台", ""},//MhandisiSafariVideoControlPanel = 25, for the about info box
-            {"Version: ", "版本： ",""},//Version = 26 for the about info box
-            {"Save Settings","存盘选项",""}//SaveSettings = 27, for the settings window
+            {"Mhandis Safari Video Control Panel", "Mhandisi Safari 摄像机控制台", "Mhandis Safari Configuration"},//MhandisiSafariVideoControlPanel = 25, for the about info box
+            {"Version: ", "版本： ","Version:"},//Version = 26 for the about info box
+            {"Save Settings","存盘选项","Guarda la Configuration"}//SaveSettings = 27, for the settings window
                                         };
         public Translation(LANGUAGES DefaultLanugage)
         {

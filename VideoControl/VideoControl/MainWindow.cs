@@ -263,8 +263,13 @@ namespace VideoControl
         private void englishToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Translator.SetLanguage(LANGUAGES.English);
+            UpButton.Font = new System.Drawing.Font("Tribeca", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            DownButton.Font = new System.Drawing.Font("Tribeca", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            LeftButton.Font = new System.Drawing.Font("Tribeca", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            RightButton.Font = new System.Drawing.Font("Tribeca", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            FireButton.Font = new System.Drawing.Font("Tribeca", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             UpdateInterface();
-            if (SettingsWindow.Visible == true)
+            if (SettingsWindow != null)
             {
                 SettingsWindow.UpdateInterface(LANGUAGES.English);
             }
@@ -273,8 +278,13 @@ namespace VideoControl
         private void 中文ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Translator.SetLanguage(LANGUAGES.Chinese);
+            UpButton.Font = new System.Drawing.Font("Tribeca", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            DownButton.Font = new System.Drawing.Font("Tribeca", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            LeftButton.Font = new System.Drawing.Font("Tribeca", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            RightButton.Font = new System.Drawing.Font("Tribeca", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            FireButton.Font = new System.Drawing.Font("Tribeca", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             UpdateInterface();
-            if (SettingsWindow.Visible == true)
+            if (SettingsWindow != null)
             {
                 SettingsWindow.UpdateInterface(LANGUAGES.Chinese);
             }
@@ -283,8 +293,13 @@ namespace VideoControl
         private void españolToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Translator.SetLanguage(LANGUAGES.Spanish);
+            UpButton.Font = new System.Drawing.Font("Tribeca", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            DownButton.Font = new System.Drawing.Font("Tribeca", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            LeftButton.Font = new System.Drawing.Font("Tribeca", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            RightButton.Font = new System.Drawing.Font("Tribeca", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            FireButton.Font = new System.Drawing.Font("Tribeca", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             UpdateInterface();
-            if (SettingsWindow.Visible == true)
+            if (SettingsWindow != null)
             {
                 SettingsWindow.UpdateInterface(LANGUAGES.Spanish);
             }
