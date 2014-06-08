@@ -7,3 +7,15 @@ C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug
 C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.csproj.GenerateResource.Cache
 C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.MainWindow.resources
 C:\Users\David\Desktop\Mhandisi Safari Video\VideoControl\VideoControl\obj\Debug\VideoControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.exe
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.pdb
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\VideoControl.exe
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\VideoControl.pdb
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.MainWindow.resources
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.Settings.resources
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\en\VideoControl.resources.dll
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.MainWindow.en.resources
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\en\VideoControl.resources.dll

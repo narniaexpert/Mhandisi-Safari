@@ -23,6 +23,24 @@ namespace VideoControl
 
             Translator = new Translation(DefaultLanguage);
             UpdateInterface();
+
+            //Set Color Pallate
+            Color KilimanjaroGreen = Color.FromArgb(29, 62, 32);
+            Color KilimanjaroYellow = Color.FromArgb(191, 196, 140);
+            Color KilimanjaroRed = Color.FromArgb(146, 23, 0);
+            Color KilimanjaroOrange = Color.FromArgb(179, 95, 16);
+            this.BackColor = KilimanjaroYellow;
+            IPAddressLabel.ForeColor = KilimanjaroGreen;
+            IPAddressTextBox.BackColor = KilimanjaroGreen;
+            IPAddressTextBox.ForeColor = KilimanjaroYellow;
+            IPAddressTextBox.BorderStyle = BorderStyle.FixedSingle;
+            PlayerTypeLabel.ForeColor = KilimanjaroGreen;
+            PlayerTypeComboBox.ForeColor = KilimanjaroYellow;
+            PlayerTypeComboBox.BackColor = KilimanjaroGreen;
+            SaveSettingsButton.BackColor = KilimanjaroGreen;
+            SaveSettingsButton.ForeColor = KilimanjaroYellow;
+            SaveSettingsButton.FlatAppearance.BorderColor = KilimanjaroGreen;
+            
         }
 
         public void UpdateInterface(LANGUAGES NewLanguage)//overloaded version to be called by forms that don't have access to the private translator object

@@ -35,6 +35,29 @@ namespace VideoControl
             //Turns LED off by default
             BackgroundURLBox.Url = new System.Uri(IPAddress + "/set_misc.cgi?next_url=ptz.htm&loginuse=admin&loginpas=&ptz_patrol_rate=10&ptz_patrol_up_rate=10&ptz_patrol_down_rate=10&ptz_patrol_left_rate=10&ptz_patrol_right_rate=10&ptz_dispreset=1&ptz_preset=3&led_mode=0&ptz_run_times=2");
             
+            //Configure the custom colors
+            Color KilimanjaroGreen = Color.FromArgb(29, 62, 32);
+            Color KilimanjaroYellow = Color.FromArgb(191, 196, 140);
+            Color KilimanjaroRed = Color.FromArgb(146, 23, 0);
+            Color KilimanjaroOrange = Color.FromArgb(179, 95, 16);
+            menuStrip1.BackColor = KilimanjaroGreen;
+            menuStrip1.ForeColor = KilimanjaroYellow;
+            UpButton.BackColor = KilimanjaroGreen;
+            UpButton.ForeColor = KilimanjaroYellow;
+            UpButton.FlatAppearance.BorderColor = KilimanjaroYellow;
+            DownButton.BackColor = KilimanjaroGreen;
+            DownButton.ForeColor = KilimanjaroYellow;
+            DownButton.FlatAppearance.BorderColor = KilimanjaroYellow;
+            LeftButton.BackColor = KilimanjaroGreen;
+            LeftButton.ForeColor = KilimanjaroYellow;
+            LeftButton.FlatAppearance.BorderColor = KilimanjaroYellow;
+            RightButton.BackColor = KilimanjaroGreen;
+            RightButton.ForeColor = KilimanjaroYellow;
+            RightButton.FlatAppearance.BorderColor = KilimanjaroYellow;
+            FireButton.BackColor = KilimanjaroGreen;
+            FireButton.ForeColor = KilimanjaroYellow;
+            FireButton.FlatAppearance.BorderColor = KilimanjaroYellow;
+
         }
         private void UpdateInterface() //Updates the interface in the new language
         {

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Settings));
             this.IPAddressLabel = new System.Windows.Forms.Label();
             this.IPAddressTextBox = new System.Windows.Forms.TextBox();
             this.PlayerTypeLabel = new System.Windows.Forms.Label();
@@ -70,6 +71,7 @@
             this.PlayerTypeComboBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PlayerTypeComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.PlayerTypeComboBox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.PlayerTypeComboBox.Font = new System.Drawing.Font("Tribeca", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PlayerTypeComboBox.FormattingEnabled = true;
             this.PlayerTypeComboBox.Items.AddRange(new object[] {
@@ -85,6 +87,7 @@
             this.SaveSettingsButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.SaveSettingsButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.SaveSettingsButton.Font = new System.Drawing.Font("Tribeca", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SaveSettingsButton.Location = new System.Drawing.Point(15, 130);
             this.SaveSettingsButton.Name = "SaveSettingsButton";
@@ -104,6 +107,8 @@
             this.Controls.Add(this.PlayerTypeLabel);
             this.Controls.Add(this.IPAddressTextBox);
             this.Controls.Add(this.IPAddressLabel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.MinimumSize = new System.Drawing.Size(300, 300);
             this.Name = "Settings";
             this.Text = "Settings";
