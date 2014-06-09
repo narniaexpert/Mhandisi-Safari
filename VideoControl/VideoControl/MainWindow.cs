@@ -8,6 +8,15 @@ using System.Text;
 using System.Windows.Forms;
 using System.Threading; //Used for the time dealy
 
+//All Images are licensed for reuse
+//Map background: https://www.etsy.com/listing/187850429/1897-antique-map-of-tanzania-east-africa
+//Compass rose: http://commons.wikimedia.org/wiki/File:Guillaume_Brouscon._Compass_card._HM_46._PORTOLAN_ATLAS_and_NAUTICAL_ALMANAC._France,_1543.jpg
+//Elephant watermark: http://pixabay.com/static/uploads/photo/2014/03/17/18/35/elephant-289300_640.jpg
+//These images were modified and combined to create the window background by David Sutton.
+
+//For best results please install the Tribeca font on your computer before using this app.
+//Tribeca Font: http://www.1001fonts.com/tribeca-font.html#license
+
 namespace VideoControl
 {
     public enum CameraModes
