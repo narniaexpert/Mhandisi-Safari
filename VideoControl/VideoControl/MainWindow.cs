@@ -27,13 +27,15 @@ namespace VideoControl
     public partial class MainWindow : Form
     {
         private const string VERSION = "1.0";
-        private string IPAddress = "http://192.168.1.125:81";
+        private string IPAddress = "http://192.168.1.104:81";
         private Settings SettingsWindow;
         private CameraModes CameraMode;
         private Translation Translator;
         public MainWindow()
         {
             InitializeComponent();
+
+            VideoStream.Url = new System.Uri(IPAddress + "/mobile.htm");
 
             Translator = new Translation(LANGUAGES.English);//English will be the default language
             UpdateInterface();//Update the interface for the new language
