@@ -19,3 +19,7 @@ C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\De
 C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\en\VideoControl.resources.dll
 C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.MainWindow.en.resources
 C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\en\VideoControl.resources.dll
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\VideoControl.exe.manifest
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\bin\Debug\VideoControl.application
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.exe.manifest
+C:\Users\David\Documents\GitHub\Mhandisi-Safari\VideoControl\VideoControl\obj\Debug\VideoControl.application
